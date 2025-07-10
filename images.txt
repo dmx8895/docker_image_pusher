@@ -1,4 +1,1 @@
-nginx
-python:3.11-slim
-dify
-flask
+langgenius/dify
